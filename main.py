@@ -1,4 +1,4 @@
-from lib2to3.pgen2.token import COLON
+
 import random
 
 MAX_LINES = 3
